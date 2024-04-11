@@ -30,6 +30,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>springboot-githubaction</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
